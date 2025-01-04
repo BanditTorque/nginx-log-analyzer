@@ -14,4 +14,4 @@
    ./log_analyzer.sh
    ```
 
-https://roadmap.sh/projects/nginx-log-analyser
+
